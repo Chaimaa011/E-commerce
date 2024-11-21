@@ -1,0 +1,16 @@
+.btn {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 20px;
+    /* border-radius: 50px;   */
+    background-color: #646c64;
+    color: white;
+    /* border: 1px solid #4caf50; */
+    transition: all 0.3s ease;
+  }
+  
+.btn:hover {
+    background-color: #5b755b ;
+    /* border-color: #4caf50; */
+    transform: scale(1.05); 
+  }

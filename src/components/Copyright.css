@@ -1,0 +1,135 @@
+/* 
+.footer {
+    background-color: #f3f3f3;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    margin: 0 15px;
+    color: #666;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+    color: #333;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 13px;
+    color: #999;
+} */
+
+.ac{
+  color: #313d37;
+  /* margin-top: -20px; */
+}
+
+
+.footer {
+  background-color: #757975;
+  color: #111b17;
+    padding: 30px 0;
+    margin-bottom: -60px;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: auto;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin: 20px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  .footer-logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-section h4 {
+    font-size: 18px;
+    color: #1a201d;
+    margin-bottom: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  .footer-section h5 {
+    font-size: 18px;
+    color: #111b17;
+    margin-bottom: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  }
+  
+  .footer-section p {
+    font-size: 14px;
+    line-height: 1.6;
+    font-family:Arial ,sans-serif;
+  }
+  
+  .footer-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 8px;
+  }
+  
+  .footer-section ul li a {
+    color: #111b17;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-section.contact p {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .footer-section.contact p i {
+    margin-right: 8px;
+  }
+
+  
+  .social-links a {
+    color: #111b17;
+    font-size: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    color: #111b17; 
+  }
+
+  .copy{
+    font-size: 14px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+  }

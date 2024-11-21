@@ -1,0 +1,16 @@
+.card{
+    height: 600px;
+}
+.card-body{
+    text-decoration: none;
+}
+img{
+    height: 00px;
+}
+.product-list-container {
+    /* background-image: url('./photos/bg.png'); Remplace par l'URL de ton image */
+    /* background-size: cover; Pour couvrir tout l'arrière-plan */
+    /* background-position: center; Centrer l'image */
+    /* min-height: 100vh; Assure que la section prenne au moins la hauteur de la fenêtre */
+    /* padding: 20px; Optionnel : ajoute un peu de padding */
+}
